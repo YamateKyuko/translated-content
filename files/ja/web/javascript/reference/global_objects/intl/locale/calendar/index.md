@@ -44,7 +44,7 @@ slug: Web/JavaScript/Reference/Global_Objects/Intl/Locale/calendar
 - `iso8601`
   - : ISO カレンダー (ISO 8601 カレンダーの曜日規則を使用したグレゴリオ暦)
 - `japanese`
-  - : 日本の皇紀
+  - : 日本の和暦
 - `persian`
   - : ペルシャ暦
 - `roc`
